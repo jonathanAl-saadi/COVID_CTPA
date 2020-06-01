@@ -1,6 +1,6 @@
 %DESCRIPTIVE STATISTICS OF CTPA COHORT RYSZ ET. AL
 
-%Import the data from Excel, if no variable name is chosen it will be
+%Import the data from Excel, if no variable name is chosen it will
 %called CTPA_echo_Huddinge.
 CTPAHuddinge = CTPAechoHuddinge;
 
